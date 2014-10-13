@@ -1,24 +1,18 @@
 ---
 layout: page
-title: Low Hanging Fruit
+title: Low Hanging Fruit - Spreadsheets
 ---
 
-<h1 class="title">Low Hanging Fruit</h1>
+<h1 class="title">Low Hanging Fruit - Spreadsheets</h1>
+<p>So far I've found 330 spreadsheets that are published across the OU site, and with some more work I'm sure that we can find some candidates for publishing APIs.</p>
 
 {% raw  %}
 <script id="fruitListingTemplate" type="text/template">       
-    <tr>
-        <td align="left" valign="top">
-            <a href="{{URL}}" style="" target="_blank">{{URL}}</a>
-        </td>
-    </tr>                                                                                                   
+    <li><a href="{{URL}}" style="" target="_blank">{{URL}}</a></li>                                                                                             
 </script>
 {% endraw %}
 
-<div>
-     <p align="center"><hr /></p>
-     <table id="fruitListing" style="padding-left: 35px;" width="90%" cellpadding="1" cellspacing="1"></table>
-</div>  
+<ul id="fruitListing" style="padding-left: 35px;"></ul>
 
 <script type="text/javascript">
 function listURLs()
