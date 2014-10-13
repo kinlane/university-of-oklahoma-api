@@ -1,0 +1,58 @@
+---
+layout: page
+title: Low Hanging Fruit
+---
+<style>
+
+    .baaslistingcontainer{
+        padding-left: 10px; 
+        padding-right: 10px; 
+        width:550px;
+    }
+    .baaslisting{
+        padding-left: 30px;
+    }  
+    .baaslisting li{
+        list-style: none; 
+        padding: 30px; 
+        border: 0px solid #000;
+    }       
+</style>
+
+<h1 class="title">Low Hanging Fruit</h1>
+
+{% raw  %}
+<script id="fruitListingTemplate" type="text/template">       
+    <tr>
+        <td align="left" valign="top">
+            <a href="" id="{{url}}" style="color: #000;" target="_blank">{{url}}</a>
+        </td>
+    </tr>                                                                                                   
+</script>
+{% endraw %}
+
+<div>
+     <p align="center"><hr /></p>
+     <table id="fruitListing" style="padding-left: 35px;" width="90%" cellpadding="1" cellspacing="1"></table>
+</div>  
+
+<script type="text/javascript">
+function listCompanies()
+    {
+    url = getUrlVar('url');
+    if(url=='')
+    	{
+    	url = "data/fruit-tables.json";	
+    	}
+    $.getJSON(url, function(data) {
+        toggle = 0;
+         $.each(data['fruit'], function(key, val) {
+            var template = $('#fruitListingTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#fruitListing').append(html);               
+                                 
+            });
+        });
+    } 
+listCompanies();
+</script>

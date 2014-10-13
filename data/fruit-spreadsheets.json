@@ -1,0 +1,992 @@
+[
+	{
+		"URL": "https://www.ou.edu/content/dam/financialaid/Forms/2014-2015/Financial_Aid_Budget_Planning_RESIDENT_WEBSITE..xlsx"
+	},
+	{
+		"URL": "https://www.ou.edu/content/dam/financialaid/Forms/2014-2015/Financial_Aid_Budget_Planning_Non-RESIDENT_WEBSITE..xlsx"
+	},
+	{
+		"URL": "http://catalog.ou.edu/content/dam/admissions/documents/Course-catalog.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/AdminFinance/documents/Plus4_by_route.xls.pdf"
+	},
+	{
+		"URL": "http://ncdet.ou.edu/site-media/filer/2011/10/10/vendorpo2.xls"
+	},
+	{
+		"URL": "http://ors.ou.edu/pafs/signatureform.xls"
+	},
+	{
+		"URL": "http://ors.ou.edu/pafs/trsfform.xls"
+	},
+	{
+		"URL": "http://ors.ou.edu/pafs/pafs-1.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/disburse.xls"
+	},
+	{
+		"URL": "http://ors.ou.edu/pafs/opasform.xls"
+	},
+	{
+		"URL": "http://ors.ou.edu/pafs/req.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/ScholarshipPR.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/travel.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/gradweb/documents/PeopleOrganizations/GC_CounselorDistributionList.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/studentsuccess/documents/Final%20Time%20Calendars.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Class/Enr%20Details%20Summer%2014%20OnCampus%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Class/Enr%20Details%20Fall14%20OnCampus%20Class_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Class/Enr%20Details%20Spring%2014%20OnCampus%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Class/Enr%20Details%20Summer14%20Tulsa%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Class/Enr%20Details%20Fall14%20Tulsa%20Class_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Class/Enr%20Details%20Spring14%20Tulsa%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Class/Enr%20Details%20Summer14%20AcadProg%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Class/Enr%20Details%20Fall14%20AcadProg%20Class_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Class/Enr%20Details%20Spring14%20AcadProg%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Independent%20Campus/By%20Class/Enr%20Details%20Fall14%20IndpCampus%20Class_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Independent%20Campus/By%20Class/Enr%20Details%20Spring14%20Indep%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Class/Enr%20Details%20Summer14%20AdvProg%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Class/Enr%20Details%20Spring14%20AdvProg%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Class/Enr%20Details%20Summer14%20LSTD%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Class/Enr%20Details%20Fall14%20LibStudies%20Class_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Class/Enr%20Details%20Spring14%20LibStudies%20Class.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%2014%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Fall14%20OnCampus%20FTPT_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202013%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enrollment%20Details%20Fall%202013%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%2014%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202012%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202012%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202013%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202011%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202011%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202012%20OnCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202010%20OnCampus%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202011%20OnCampus%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Summer14%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Fall14%20Tulsa%20FTPT_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202013%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enrollment%20Details%20Fall13%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Spring14%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202012%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202012%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202013%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202011%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202011%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202012%20Tulsa%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202010%20Tulsa%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202011%20Tulsa%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer14%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Fall14%20AcadProg%20FTPT_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202013%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enrollment%20Details%20Fall13%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring14%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202012%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202012%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202013%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202011%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202011%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202012%20AcadProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202010%20AcadProg%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202011%20AcadProg%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Independent%20Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Fall14%20IndpCampus%20FTPT_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Independent%20Campus/By%20Residency%20and%20FTPT/Enrollment%20Details%20Fall13%20IndpCampus%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Independent%20Campus/By%20Residency%20and%20FTPT/Enr%20Details%20Spring14%20Indep%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer14%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202013%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enrollment%20Details%20Fall13%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring14%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202012%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202012%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202013%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202011%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202011%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202012%20AdvProg%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202010%20AdvProg%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202011%20AdvProg%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Summer14%20LSTD%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Fall14%20LibStudies%20FTPT_WEB.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202013%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enrollment%20Details%20Fall13%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Spring14%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202012%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202012%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202013%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Summer%202011%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202011%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202012%20LibStudies%20FTPT.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Fall%202010%20LibStudies%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Residency%20and%20FTPT/Enr%20Details%20Spring%202011%20LibStudies%20FTPT.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Summer%202013%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enrollment%20Details%20Fall%202013%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Summer%202012%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Fall%202012%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Spring%202013%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Summer%202011%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Fall%202011%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Spring%202012%20OnCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Fall%202010%20OnCampus%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/On-Campus/By%20Race%20and%20Gender/Enr%20Details%20Spring%202011%20OnCampus%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Summer%202013%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enrollment%20Details%20Fall13%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Summer%202012%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Fall%202012%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Spring%202013%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Summer%202011%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Fall%202011%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Spring%202012%20Tulsa%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Fall%202010%20Tulsa%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU-Tulsa/By%20Race%20and%20Gender/Enr%20Details%20Spring%202011%20Tulsa%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Summer%202013%20AcadProg.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enrollment%20Details%20Fall13%20AcadProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Summer%202012%20AcadProg.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Fall%202012%20AcadProg.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Spring%202013%20AcadProg.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Summer%202011%20AcadProg.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Fall%202011%20AcadProg.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Spring%202012%20AcadProg.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Fall%202010%20AcadProg.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Academic%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Spring%202011%20AcadProg.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Independent%20Campus/By%20Race%20and%20Gender/Enrollment%20Details%20Fall13%20IndpCampus%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Summer%202013%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enrollment%20Details%20Fall13%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Summer%202012%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Fall%202012%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Spring%202013%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Summer%202011%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Fall%202011%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Spring%202012%20AdvProg%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Fall%202010%20AdvProg%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Advanced%20Programs/By%20Race%20and%20Gender/Enr%20Details%20Spring%202011%20AdvProg%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Summer%202013%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enrollment%20Details%20Fall13%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Summer%202012%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Fall%202012%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Spring%202013%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Summer%202011%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Fall%202011%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Spring%202012%20LibStudies%20Race.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Fall%202010%20LibStudies%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Enrollment%20Statistics/Enrollment%20Details/OU%20Outreach%20-%20Liberal%20Studies/By%20Race%20and%20Gender/Enr%20Details%20Spring%202011%20LibStudies%20Race.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/provost/documents/program-tracking.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/provost/documents/Shared-Tuition-Course-Request-Form.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/provost/documents/Provost-administrative-units-food-and-beverage-expense-certification.xls"
+	},
+	{
+		"URL": "http://forms.ou.edu/learning_spaces/classroominventory.xls"
+	},
+	{
+		"URL": "http://../../dam/International/SIAS/PDFs/Copy%20of%20Int-l%20Programs%20OTIS_request_FORM%20Feb%2017.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/International/IPC/2014%20Documents/CIS_TRVL_PREAUTH_2014_08.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Tulsa/operations/doc/Mail%20Voucher.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Tulsa/scm/rsa/Period%20and%20Week%20Schedule.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/budget/budget_revisions/jcr%3acontent/rt_par/download_0/file.res/BR%20form%20new.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/budget/budget_revisions/jcr%3acontent/rt_par/download_1/file.res/Copy%20of%20AccountCodes-1.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/budget/earnings_distrbution/jcr%3acontent/rt_par/download_1/file.res/9%2030%2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/Copy of billing_summary_fs (2).xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/January 2013 Staples.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/Feb 2013 Staples.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/Mar 2013 Staples.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/April 2013 Staples.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/active-departments.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/account.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/fund.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/check.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/earnins-dist.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/VendorStandards.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/cont1.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/trsfform.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/admissions/documents/Course-catalog.xls"
+	},
+	{
+		"URL": "http://libraries.ou.edu/compendia/statab/2012/tables/12s0075.xls"
+	},
+	{
+		"URL": "http://libraries.ou.edu/compendia/statab/2012/tables/12s0076.xls"
+	},
+	{
+		"URL": "http://libraries.ou.edu/compendia/statab/2012/tables/12s0077.xls"
+	},
+	{
+		"URL": "http://cas.ou.edu/Websites/oucas/images/financial_forms/Overload Request Form.xls"
+	},
+	{
+		"URL": "http://cas.ou.edu/Websites/oucas/images/financial_forms/Temp Replace Faculty Form.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/scholarships/resources/Forms/jcr%3acontent/contentpar/download_5/file.res/Copy%20of%201415%20Authorization%20for%20Dept%20Scholarship%20and%20Fellowship%20Payments.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/scholarships/resources/Forms/jcr%3acontent/contentpar/download/file.res/Copy%20of%201415%20Authorization%20for%20Intl%20Dept%20Scholarship%20and%20Fellowship%20Payments.xls"
+	},
+	{
+		"URL": "https://www.ou.edu/content/dam/financialaid/Forms/2014-2015/Budget%20Worksheets.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/studentlife/get_involved/student_organizations/forms/financial/jcr%3acontent/contentpar/download/file.res/Application%20for%20new%20department%20number.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/departments.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/account.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/fund.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/earnins-dist.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/VendorStandards.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/cont1.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/trsfform.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/International/EA/NEW%20EA/Faculty%20and%20Staff%20Forms/Study%20Abroad%20Eval%20Info.xlsx"
+	},
+	{
+		"URL": "http://csrde.ou.edu/web/Samples_Web/TransferSurveySample13.xls.pdf"
+	},
+	{
+		"URL": "http://cgcs.ou.edu/documents/GUIDE_ORDER_FORM_FY14-ship.xlsx"
+	},
+	{
+		"URL": "http://ors.ou.edu/proposal/budget/generic1yr15.xlsx"
+	},
+	{
+		"URL": "http://ors.ou.edu/proposal/budget/generic2yr15.xlsx"
+	},
+	{
+		"URL": "http://ors.ou.edu/proposal/budget/generic3yr15.xlsx"
+	},
+	{
+		"URL": "http://ors.ou.edu/proposal/budget/generic4yr15.xlsx"
+	},
+	{
+		"URL": "http://ors.ou.edu/proposal/budget/generic5yr15.xlsx"
+	},
+	{
+		"URL": "http://ors.ou.edu/award/opasform.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/Participant%20Form.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/sampleagrmt.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/FoodandBeverage.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/gaylord/resources/library/jcr%3acontent/contentpar/download_3/file.res/List%20of%20Gaylord%20Library%20Periodicals.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Years%202014-15/Int%20May%2014%20CH%20Summary.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Years%202014-15/Credit%20Hour%20Summary%20Summer%2014%20Final.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Years%202014-15/Int%20Aug%2014%20CH%20Summary.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Years%202014-15/Credit%20Hour%20Summary%20Fall%2014%20Preliminary.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Year%202013-14/Credit%20Hour%20Summary%20May%20Intersession%202013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Year%202013-14/Credit%20Hour%20Summary%20Summer%202013%20FINAL.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Year%202013-14/Credit%20Hour%20Summary%20Aug%20Intersession%202013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Year%202013-14/CrHr%20Summary%20Fall13%20Final.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Year%202013-14/Credit%20Hour%20Summary%20December%20Intersession%202013.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Summaries/Academic%20Year%202013-14/Credit%20Hour%20Summary%20Spring%202014%20Final%20Revised.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202014-15/Credit%20Hour%20Analysis%20May%2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202014-15/Credit%20Hour%20Analysis%20Summer%2014%20-%20Final.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202014-15/Credit%20Hour%20Analysis%20Aug%2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202014-15/Credit%20Hour%20Analysis%20Fall%2014%20-%20Prelim%20wo%20AP.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202013-14/Credit%20Hour%20Analysis%20May%20Intersession%202013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202013-14/Credit%20Hour%20Analysis%20Summer%202013%20Final.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202013-14/Credit%20Hour%20Analysis%20August%20Intersession%202013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202013-14/Credit%20Hour%20Analysis%20Fall%202013%20Final.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202013-14/Credit%20Hour%20Analysis%20Dec%20Intersession%202013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Academic%20Year%202013-14/CrHr%20Analysis%20Spring%2014%20Final%20Revised.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Prior%20Years/Credit%20Hour%20Analysis%20AY%202012-13%20Excel.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/irr/docs/Credit%20Hour%20Reports/Credit%20Hour%20Analysis%20by%20Section/Prior%20Years/Final%20Credit%20Hour%20Analysis%20AY%202011-12.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/provost/documents/Textbook-Instructional-Materials-Adoption-Form.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/OU Foundation Advance Fund Request.xls"
+	},
+	{
+		"URL": "http://www.ouhsc.edu/ehso/forms/HAZARDOUS%20WASTE%20FORM.xlsx"
+	},
+	{
+		"URL": "http://hr.ou.edu/DMS/documents/files/Retirement__Option_1_Option_2__Comparison_Calculator/RetirementPlanningCalculator.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/admin/facsen/fsappor10amndtbl.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/asc/docs/Admin%20Staff%20Council%20Members.xlsx"
+	},
+	{
+		"URL": "http://ou.edu/content/dam/AdminFinance/documents/Plus4_by_route.xls.pdf"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/price/facultystaffservices/FoodandBeverage.xls"
+	},
+	{
+		"URL": "http://arrc.ou.edu/tools/DC Drop Calculator (8-6-2012 Release).xlsx"
+	},
+	{
+		"URL": "http://arrc.ou.edu/tools/Mitered Bend Calculator (8-6-2012 Release).xlsx"
+	},
+	{
+		"URL": "http://arrc.ou.edu/tools/RF Chain Calculator (8-6-2012 Release).xlsx"
+	},
+	{
+		"URL": "http://arrc.ou.edu/tools/RF Power Calculator (8-6-2012 Release).xlsx"
+	},
+	{
+		"URL": "http://arrc.ou.edu/tools/VSWR Calculator (8-6-2012 Release).xlsx"
+	},
+	{
+		"URL": "http://arrc.ou.edu/tools/Weather Radar Equation (8-6-2012 Release).xlsx"
+	},
+	{
+		"URL": "http://tulsa.ou.edu/diabetes/Blood Sugar Log Two Shots.xls"
+	},
+	{
+		"URL": "http://tulsa.ou.edu/diabetes/BS Pump Log for Fax.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/purchasing/pcard/DBC/DBC Budget Worksheet.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/moving2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/moving2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/EXPENSE REIMBURSEMENT FORM.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/foodbevprovost.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/Participant Form.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/spifinv.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/travel-EZ.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/dwnload/travel-EZ.xls"
+	},
+	{
+		"URL": "https://vpr-norman.ou.edu/sites/vpr-norman.ou.edu/files/FY2013_FTAP_Data.xlsx"
+	},
+	{
+		"URL": "https://vpr-norman.ou.edu/sites/vpr-norman.ou.edu/files/FTAP_Funding_2012_0.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/OUHSCResearch/Images_Documents/dept%20assign%20list%202011.xls"
+	},
+	{
+		"URL": "http://www.ogs.ou.edu/OPIC/Field_Discovery_Wells.xls"
+	},
+	{
+		"URL": "http://www.ogs.ou.edu/fossilfuels/xlsfiles/gasshalesdb.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Architecture/design/Forms/Detailed%20Research%20Budget%2010%2013%2011.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Architecture/iPad%20Reservation%20Request%20Form.xlsm"
+	},
+	{
+		"URL": "http://www.ou.edu/content/architecture/construction_science/undergrad/jcr%3acontent/contentpar/download/file.res/cns%20flow%20diagram.xlsx"
+	},
+	{
+		"URL": "http://cas.ou.edu/Websites/oucas/Images/financial_forms/Overload%20Request.xls"
+	},
+	{
+		"URL": "http://cas.ou.edu/Websites/oucas/Images/financial_forms/Request%20for%20a%20Temporary%20Replacement%20of%20a%20Faculty%20Member.xls"
+	},
+	{
+		"URL": "http://ou-pss@ou.edu/content/dam/AdminFinance/documents/Plus4_by_route.xls.pdf"
+	},
+	{
+		"URL": "http://slis.ou.edu/Websites/slis/images/PDFs/ACCRED/LibJournal_GradSurvey_2007-2011.xlsx"
+	},
+	{
+		"URL": "http://slis.ou.edu/Websites/slis/images/PDFs/ACCRED/ExitSurveys_2007-12.xlsx"
+	},
+	{
+		"URL": "http://slis.ou.edu/Websites/slis/images/PDFs/BAIS/Schedules/BAIS_scheudle_2015.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Education/documents/ELPS/EACS/EACS%20Course%20Cycle%202013-16.xlsx"
+	},
+	{
+		"URL": "http://socialwork.ou.edu/Websites/socialwork/images/field_education/Forms___Reference/Norman_Specific/PRACTICUM_MILEAGE_FORM.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/sga/common/USG/applications/SGA%20Funding%20Application.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/sga/common/USG/applications/SGA%20Union%20Catering%20Fund%20Application.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/active-departments.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/controller/fss/dwnload/check.xls"
+	},
+	{
+		"URL": "http://ouci.ou.edu/Websites/ouci/files/Content/4355756/Attachment_1_HSK_Mock_Test_Rgeistration_Form.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/September2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/August2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/July2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/June2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/May2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/April2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/March2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/February2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/January2014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/December2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/November2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/October2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/September2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/August2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/July2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/June2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/May 2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/April 2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/March2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/Feb2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/Janaury2013.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/December2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/November2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/October2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/August2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/July2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/June2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/MAY2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/data/weatherstation/April2012.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/uobs/TUITIONFEES ESTIMATE.xls"
+	},
+	{
+		"URL": "http://cki.ou.edu/oucki/Forms &amp Literature_files/hours%20form-1.xls"
+	},
+	{
+		"URL": "http://k20center.ou.edu/files/1913/9947/9605/2014_SKIE_Award_Criteria_Rubric.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/provost/documents/PACFAM.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/provost/documents/PACFAM-Executive-Members.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board1_Roster_041310.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board2_Roster_041310.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board1_Roster_101409.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board2_Roster_101409.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board1_Roster_02202009.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board2_Roster_02202009.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/documents/OU_NC_IRB_Board1_Roster_01072008.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/documents/OU_NC_IRB_Board2_Roster_01072008.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/documents/OU_NC_IRB_Board1_Roster_01152008.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/documents/OU_NC_IRB_Board2_Roster_12012007.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/documents/OU_NC_IRB_Board2_Roster_10012007_000.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board1_Roster_09012007.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB__Board2_Rosters_09012007.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB_Board1_Roster_03232007.xls"
+	},
+	{
+		"URL": "http://irb.ou.edu/Rosters_Format_11-14-2006/OU_NC_IRB__Board2_Rosters_03232007.xls"
+	},
+	{
+		"URL": "http://hr.ou.edu/DMS/documents/files/Hourly_Payroll_Processing_Deadlines/2013-2014_Hourly_Payroll_Calendar.xlsx"
+	},
+	{
+		"URL": "http://hr.ou.edu/DMS/documents/files/Monthly_Payroll_Processing_Deadlines/2013-2014_Monthly_Payroll_Calendar.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/budget/excel/earningsdr.xls"
+	},
+	{
+		"URL": "http://ou.edu/content/budget/budget_revisions/jcr%3acontent/rt_par/download_0/file.res/BR%20form%20new.xls"
+	},
+	{
+		"URL": "http://ou.edu/content/budget/budget_revisions/jcr%3acontent/rt_par/download_1/file.res/Copy%20of%20AccountCodes-1.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Education/documents/CEDAR_Literary_Inventory.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Education/documents/hardman/Community%20of%20Practice%20Interest.xlsx"
+	},
+	{
+		"URL": "http://www.ou.edu/content/dam/Education/zarrow/OTC%20member%20list%20Jan%202014.xls"
+	},
+	{
+		"URL": "http://www.ou.edu/content/tulsa/community_medicine/2013/2010/Final Interview Matrix 7-19-10.xlsx"
+	},
+	{
+		"URL": "http://tulsa.ou.edu/socm/2010/Final Interview Matrix 7-19-10.xlsx"
+	}
+]
