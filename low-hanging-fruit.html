@@ -28,9 +28,11 @@ function listURLs()
     	{
     	url = "data/fruit-tables.json";	
     	}
+    	
     $.getJSON(url, function(data) {
-        toggle = 0;
-         $.each(data['fruit'], function(key, val) {
+        
+         $.each(data, function(key, val) {
+         	
             var template = $('#fruitListingTemplate').html();
             var html = Mustache.to_html(template, val);
             $('#fruitListing').append(html);               
