@@ -12,7 +12,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
 paginate: 50
-paginate_path: "/updates/page:num"
+paginate_path: "/news/page:num"
 
 production_url : http://university-of-oklahoma-api.apievangelist.com
 
